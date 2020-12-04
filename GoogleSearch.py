@@ -1,5 +1,5 @@
 import webbrowser
 
-search = input("Digite a sua pesquisa: ")
-print("Redirecionando para a pesquisa " + search)
+search = input("Input your search: ")
+print("Redirecting to search " + search)
 webbrowser.open("www.google.com/search?q=" + search)
