@@ -1,5 +1,5 @@
 ## Requirements
-[Python 3](python.org)
+[Python 3](www.python.org)
 
 ## How to access the CLI?
 1. Run "git clone repo-link" (without the quotes)
